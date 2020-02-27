@@ -1,0 +1,39 @@
+html{
+    border: 1px solid black;
+    margin-top: 7%;
+    margin-bottom: 7%;
+    margin-right: 10%;
+    margin-left: 8%;
+    background-color: rgb(43, 223, 178);
+}
+img{
+    height: 12%;
+    width:12%;
+    border-radius: 50%;}
+
+
+
+
+form{background-color: rgb(32, 224, 192);
+    }
+body{text-align: center;}
+
+p{text-align: center;}
+input{
+    background-color: rgb(171, 196, 202);
+    margin: 1% 1% 1% 1%;
+    width: 15%;
+}
+
+
+.button{color:  rgb(0, 0, 0);}
+.button{background-color:rgb(171, 196, 202) ;}
+
+
+
+
+
+
+
+
+
